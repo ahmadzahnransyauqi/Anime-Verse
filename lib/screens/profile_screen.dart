@@ -65,7 +65,7 @@ class ProfileScreen extends StatelessWidget {
 
                   // Display Name / Username
                   Text(
-                    'IKLC AnimeVerse',
+                    'ahmad',
                     style: TextStyle(
                       fontSize: screenWidth * 0.055,
                       fontWeight: FontWeight.bold,
@@ -77,7 +77,7 @@ class ProfileScreen extends StatelessWidget {
 
                   // Email
                   Text(
-                    'iklcanimeverse@gmail.com',
+                    'ahmad@gmail.com',
                     style: TextStyle(
                       fontSize: screenWidth * 0.038,
                       color: Colors.white70,
